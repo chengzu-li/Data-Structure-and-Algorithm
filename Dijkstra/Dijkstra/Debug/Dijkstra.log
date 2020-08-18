@@ -1,0 +1,5 @@
+﻿  Dijkstra.cpp
+C:\Users\Dell\Desktop\Dijkstra\Dijkstra\Dijkstra.cpp(7,1): warning C4005: “INFINITY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 参见“INFINITY”的前一个定义
+C:\Users\Dell\Desktop\Dijkstra\Dijkstra\Dijkstra.cpp(136,32): warning C4101: “j”: 未引用的局部变量
+  Dijkstra.vcxproj -> C:\Users\Dell\Desktop\Dijkstra\Debug\Dijkstra.exe

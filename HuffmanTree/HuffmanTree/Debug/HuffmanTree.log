@@ -1,0 +1,6 @@
+﻿  HuffmanTree.cpp
+C:\Users\Dell\Desktop\HuffmanTree\HuffmanTree\HuffmanTree.cpp(75,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\HuffmanTree\HuffmanTree\HuffmanTree.cpp(312,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\HuffmanTree\HuffmanTree\HuffmanTree.cpp(387,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Dell\Desktop\HuffmanTree\HuffmanTree\HuffmanTree.cpp(397,21): warning C4018: “<”: 有符号/无符号不匹配
+  HuffmanTree.vcxproj -> C:\Users\Dell\Desktop\HuffmanTree\Debug\HuffmanTree.exe
